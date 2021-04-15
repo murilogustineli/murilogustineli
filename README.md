@@ -1,4 +1,4 @@
-## Hi Everyone! Welcome to Murilo Gustineli's GitHub page!
+## Hi everyone! Welcome to Murilo Gustineli's GitHub page!
 
 - 👋 Hi, I’m @murilogustineli
 - 👀 I’m interested in data science, machine learning, and data engineering
