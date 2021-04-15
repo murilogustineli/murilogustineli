@@ -6,7 +6,7 @@
 - 💞️ I’m looking for an opportunity to use my logical and technical skills to help businesses make better data-driven decisions and support them with all their data needs
 - 📫 If you're interested in reaching out, you can find me on my [LinkedIn](https://www.linkedin.com/in/murilo-gustineli/)
 
-href="https://www.linkedin.com/in/murilo-gustineli/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a 
+[<img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/murilo-gustineli/)
 
 <!---
 murilogustineli/murilogustineli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
