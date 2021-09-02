@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @murilogustineli
 - 👀 I’m interested in applying Data Science and Machine Learning for good
-- 🌱 I’m currently taking this [Machine Learning course](https://www.coursera.org/learn/machine-learning), and learning ML libraries such as Keras, TensorFlow, PySpark MLlib, and also Neural Networks and Deep Learning algorithms
+- 🤖 I’m currently taking this [Machine Learning course](https://www.coursera.org/learn/machine-learning), and learning ML libraries such as Keras, TensorFlow, PySpark MLlib, and also Neural Networks and Deep Learning algorithms
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/murilo-gustineli/)
 
 [<img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/murilo-gustineli/)
