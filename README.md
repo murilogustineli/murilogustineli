@@ -1,7 +1,7 @@
 ## Hi everyone! Welcome to Murilo Gustineli's GitHub page!
 
 - 👋 Hi, I’m @murilogustineli
-- 👀 I’m passionate about applying Data Science and Machine Learning for good!
+- 👀 I’m passionate about applying Artificial Intelligence and Machine Learning for good!
 - 🤖 I’m currently taking this [Machine Learning course](https://www.coursera.org/learn/machine-learning), and learning ML libraries such as Keras, TensorFlow, PySpark MLlib, Databricks MLflow, and also Neural Networks and Deep Learning algorithms
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/murilo-gustineli/)
 
