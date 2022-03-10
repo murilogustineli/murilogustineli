@@ -1,4 +1,4 @@
-## Hi everyone! Welcome to Murilo Gustineli's GitHub page!
+## Hi there! Welcome to my GitHub page!
 
 - 👋 Hi, I’m @murilogustineli
 - 🤖 I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computational Science and Algorithms.
