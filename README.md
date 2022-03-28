@@ -7,7 +7,10 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/murilo-gustineli/)
 
 [<img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/murilo-gustineli/)
+<!---
 [<img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](murilogustineli@gmail.com)
+--->
+
 
 <!---
 murilogustineli/murilogustineli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
