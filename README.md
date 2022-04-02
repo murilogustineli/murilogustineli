@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m [@murilogustineli](https://www.linkedin.com/in/murilo-gustineli/)
 - 🤖 I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computer Vision, Computational Science and Algorithms.
+- 📝 I wrote a [survey paper on recently proposed activation functions for Deep Learning](https://engrxiv.org/preprint/view/2245)
 - 👀 Check it out this [Linear Regression model](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using the Gradient Descent algorithm and object-oriented programming.
 - 📚 I’m currently taking this [Data Structures and Algorithms course](https://www.coursera.org/specializations/data-structures-algorithms), and learning ML libraries such as [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [PySpark MLlib](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html), [MLflow](https://mlflow.org/), [Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview), and also studying Deep Learning.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/murilo-gustineli/)
