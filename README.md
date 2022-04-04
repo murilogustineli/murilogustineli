@@ -17,7 +17,7 @@ Tools for time series analysis, forecasting, and datasets:
   <a href="https://github.com/murilogustineli/LeetCode"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=LeetCode&theme=radical&hide_border=true&show_icons=false" alt="LeetCode"></a>
   <a href="https://github.com/murilogustineli/Amazon-Alexa-NLP"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=Amazon-Alexa-NLP&theme=radical&hide_border=true&show_icons=false" alt="Amazon-Alexa-NLP"></a>
 
-
+  
 [![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilogustineli&theme=radical)](https://github.com/murilogustineli/github-readme-stats)
 
 <!---
