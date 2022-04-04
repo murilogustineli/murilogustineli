@@ -1,5 +1,5 @@
 ## Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🐍 I'm a data scientist and mainly write code in Python 
+- 🐍 I'm a data scientist and mainly write code in Python.
 - 🤖 I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computer Vision, Computational Science and Algorithms.
 - 📝 I wrote a [survey paper on recently proposed activation functions for Deep Learning](https://engrxiv.org/preprint/view/2245).
 - 👀 Check it out this [Linear Regression model](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using the Gradient Descent algorithm and object-oriented programming.
