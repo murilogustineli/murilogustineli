@@ -2,7 +2,7 @@
 I'm a data scientist and mainly write code in Python. I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computer Vision, Computational Science and Algorithms.
 
 #### 📝 Publications
-- [Survey paper on recently proposed activation functions for Deep Learning](https://engrxiv.org/preprint/view/2245)
+- [A survey on recently proposed activation functions for Deep Learning](https://arxiv.org/abs/2204.02921)
 
 #### 👀 Here's what I'm up to
 - Check it out this [Linear Regression model](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using gradient descent and object-oriented programming
