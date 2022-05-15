@@ -1,5 +1,5 @@
 ## Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a data scientist and mainly write code in Python. I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computer Vision, Deep Learning, and Computational Science.
+I'm a data scientist and mainly write code in Python. I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computer Vision, Deep Learning, Neural Networks, and Computational Science.
 
 #### 📝 Publications
 - [A survey on recently proposed activation functions for Deep Learning](https://arxiv.org/abs/2204.02921)
