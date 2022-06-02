@@ -11,8 +11,11 @@ I'm a data scientist and mainly write code in Python. I’m passionate about app
 - I'm learning ML libraries such as [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [PySpark MLlib](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html), [MLflow](https://mlflow.org/), [Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)
 
 #### 🔗 Connect with me
-[<img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/murilo-gustineli/)
+<a href="https://www.linkedin.com/in/murilo-gustineli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilogustineli" height="30" width="40" /></a>
 
+<!--
+[<img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/murilo-gustineli/)
+-->
 
 ## Main repos
 <!-- add comment here -->
