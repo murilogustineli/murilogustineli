@@ -6,7 +6,7 @@ I'm a data scientist and mainly write code in Python. I’m passionate about app
 
 #### 👀 Here's what I'm up to
 - Check it out this [Linear Regression model](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using gradient descent and object-oriented programming
-- I'm currenlty studying Deep Learning at [fast.ai](https://www.fast.ai/)
+- I'm currently studying Deep Learning at [fast.ai](https://www.fast.ai/)
 - I’m also taking this [Data Structures and Algorithms course](https://www.coursera.org/specializations/data-structures-algorithms)
 - I'm learning ML libraries such as [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [PySpark MLlib](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html), [MLflow](https://mlflow.org/), [Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)
 
