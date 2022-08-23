@@ -5,9 +5,9 @@ I'm a data scientist and mainly write code in Python. I’m passionate about app
 - [A survey on recently proposed activation functions for Deep Learning](https://arxiv.org/abs/2204.02921)
 
 #### 👀 Here's what I'm up to
+- I'm doing my Master's in **Compute Science** at **GA Tech** specializing in **Machine Learning**
 - Check it out this [Linear Regression model](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using gradient descent and object-oriented programming
 - I'm currently studying this [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai#courses) on Coursera
-- I’m also taking this [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) specialization on Coursera
 - I'm learning ML libraries such as [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [PySpark MLlib](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html), [MLflow](https://mlflow.org/), [Azure Custom Vision](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)
 
 #### 🔗 Connect with me
