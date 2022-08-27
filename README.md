@@ -1,5 +1,18 @@
 ## Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I'm a data scientist and mainly write code in Python. I’m passionate about applying AI and Machine Learning for good! I'm also passionate about Computer Vision, Deep Learning, Neural Networks, and Computational Science.
+I'm a data scientist. Passionate about neural nets and computer vision. I'm studying **Compute Science** at **GA Tech** specializing in **Machine Learning**. 
+
+#### 🐝 Georgia Tech info
+- [OMSCS home](https://omscs.gatech.edu/)
+- [BuzzPort](https://buzzport.gatech.edu/my)
+- [ML Specialization Courses](https://omscs.gatech.edu/specialization-machine-learning)
+- [Fall 2022 OMSCS Orientation Document](https://omscs.gatech.edu/sites/default/files/documents/Other_docs/fall_2022_orientation_document.pdf)
+- [reddit/OMSCS](https://www.reddit.com/r/OMSCS/)
+- [OMSCS google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRyHrRhH2V52bsYFEtm-8oJDaFOlyGYz6AKXm8WwsthN3fNP3KGkEx7O7D9ZHV3j2iKnzU2XHqoh4pQ/pubhtml)
+
+#### 📚 Courses
+| Year | Semester | Course |
+| ---- | -------- | ------ |
+| 2022 | Fall     | [CS 7646: Machine Learning for Trading](https://omscs.gatech.edu/cs-7646-machine-learning-trading) |
 
 #### 📝 Publications
 - [A survey on recently proposed activation functions for Deep Learning](https://arxiv.org/abs/2204.02921)
