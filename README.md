@@ -20,7 +20,7 @@ I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/e
 ## Main repos
 <!-- add comment here -->
 <p align="left">
-  <a href="https://github.com/murilogustineli/hype-tuning"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=hype-tuning&theme=radical&hide_border=true&show_icons=false" alt="Hyperparameter-Tuning"></a>
+  <a href="https://github.com/murilogustineli/hyper-tuning"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=hyper-tuning&theme=radical&hide_border=true&show_icons=false" alt="Hyperparameter-Tuning"></a>
   <a href="https://github.com/murilogustineli/Machine-Learning-by-Stanford"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=Machine-Learning-by-Stanford&theme=radical&hide_border=true&show_icons=false" alt="Machine-Learning-by-Stanford"></a>
   <a href="https://github.com/murilogustineli/DSA-Specialization-UCSD"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=DSA-Specialization-UCSD&theme=radical&hide_border=true&show_icons=false" alt="DSA-Specialization-UCSD"></a>
   <a href="https://github.com/murilogustineli/LeetCode"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=LeetCode&theme=radical&hide_border=true&show_icons=false" alt="LeetCode"></a>
