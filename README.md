@@ -13,9 +13,7 @@ I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/e
 #### 🔗 Connect with me
 <a href="https://www.linkedin.com/in/murilo-gustineli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilogustineli" height="30" width="40" /></a>
 
-<!--
-[<img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;](https://www.linkedin.com/in/murilo-gustineli/)
--->
+<!-- <img src="https://github.com/murilogustineli/cs7641-ml/blob/main/assignment-4/plots/Animation/Q-learning_frozenlake16x16.gif" width="400"> -->
 
 ## Main repos
 <!-- add comment here -->
