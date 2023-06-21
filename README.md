@@ -1,5 +1,5 @@
 ## Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/expertise/data-and-ai.html). I'm passionate about neural networks, computer vision, and reinforcement learning.
+I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/expertise/data-and-ai.html). I'm passionate about deep learning, computer vision, NLP, and reinforcement learning.
 
 #### 📝 Publications
 - [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/abs/2204.02921)
