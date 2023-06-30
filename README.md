@@ -3,6 +3,7 @@ I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/e
 
 #### 📝 Publications
 - [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/abs/2204.02921)
+- [**Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification**](https://arxiv.org/abs/2306.16760)
 
 #### 👀 Here's what I'm up to
 - I'm doing my Master's in [**Compute Science at Georgia Tech**](https://omscs.gatech.edu/) specializing in [**Machine Learning**](https://omscs.gatech.edu/specialization-machine-learning). 
