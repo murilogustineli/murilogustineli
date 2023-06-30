@@ -6,7 +6,7 @@ I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/e
 - [**Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification**](https://arxiv.org/abs/2306.16760)
 
 #### 👀 Here's what I'm up to
-- I'm doing my Master's in [**Compute Science at Georgia Tech**](https://omscs.gatech.edu/) specializing in [**Machine Learning**](https://omscs.gatech.edu/specialization-machine-learning). 
+- I'm currently working full-time and pursuing a master’s in [**Compute Science at Georgia Tech**](https://omscs.gatech.edu/) specializing in [**Machine Learning**](https://omscs.gatech.edu/specialization-machine-learning).
 - Repo dedicated to [**hyperparameter tuning**](https://github.com/murilogustineli/hyper-tuning) using scikit-learn `GridSearchCV` and `Pipeline`
 - Check it out this [**Linear Regression model**](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using gradient descent and object-oriented programming
 
