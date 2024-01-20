@@ -22,10 +22,11 @@ I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/e
 ## Main repos
 <!-- add comment here -->
 <p align="left">
+  <a href="https://github.com/murilogustineli/computer-vision-demo"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=computer-vision-demo&theme=radical&hide_border=true&show_icons=false" alt="computer-vision-demo"></a>
   <a href="https://github.com/murilogustineli/hyper-tuning"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=hyper-tuning&theme=radical&hide_border=true&show_icons=false" alt="hyperparameter-tuning"></a>
   <a href="https://github.com/murilogustineli/machine-learning-by-stanford"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=machine-learning-by-stanford&theme=radical&hide_border=true&show_icons=false" alt="machine-learning-by-stanford"></a>
-  <a href="https://github.com/murilogustineli/dsa-specialization-ucsd"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=dsa-specialization-ucsd&theme=radical&hide_border=true&show_icons=false" alt="dsa-specialization-ucsd"></a>
   <a href="https://github.com/murilogustineli/leetcode"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=leetcode&theme=radical&hide_border=true&show_icons=false" alt="leetcode"></a>
+  <!--   <a href="https://github.com/murilogustineli/dsa-specialization-ucsd"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=dsa-specialization-ucsd&theme=radical&hide_border=true&show_icons=false" alt="dsa-specialization-ucsd"></a> -->
 
 
 [![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilogustineli&theme=radical)](https://github.com/murilogustineli/github-readme-stats)
