@@ -28,8 +28,9 @@ I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/e
   <a href="https://github.com/murilogustineli/leetcode"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=leetcode&theme=radical&hide_border=true&show_icons=false" alt="leetcode"></a>
   <!--   <a href="https://github.com/murilogustineli/dsa-specialization-ucsd"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=dsa-specialization-ucsd&theme=radical&hide_border=true&show_icons=false" alt="dsa-specialization-ucsd"></a> -->
 
-
+<!--
 [![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilogustineli&theme=radical)](https://github.com/murilogustineli/github-readme-stats)
+-->
 
 <!---
 murilogustineli/murilogustineli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
