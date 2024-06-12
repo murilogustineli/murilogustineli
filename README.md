@@ -1,5 +1,5 @@
 ## Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I'm a data scientist at [**Insight**](https://www.insight.com/en_US/what-we-do/expertise/data-and-ai.html). I'm passionate about deep learning, computer vision, NLP, reinforcement learning, and research.
+I’m pursuing a master’s in Computer Science focusing on Machine Learning at [Georgia Tech](https://www.gatech.edu/). I’m particularly interested in Deep Learning, information retrieval, and biodiversity research aiming to improve species identification and conservation efforts.
 
 #### 📝 Research
 - [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/abs/2204.02921)
