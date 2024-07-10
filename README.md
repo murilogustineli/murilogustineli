@@ -1,23 +1,18 @@
-## Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Hi there! I’m [Murilo](https://www.linkedin.com/in/murilo-gustineli/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 I’m pursuing a master’s in Computer Science focusing on Machine Learning at [Georgia Tech](https://www.gatech.edu/). I’m particularly interested in Deep Learning, information retrieval, and biodiversity research aiming to improve species identification and conservation efforts.
 
-#### 📝 Research
-- [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/abs/2204.02921)
+## Research
+### 2024
+- [Multi-Label Plant Species Classification with Self-Supervised Vision Transformers](https://arxiv.org/abs/2407.06298)
+- [Transfer Learning with Pseudo Multi-Label Birdcall Classification for DS@GT BirdCLEF 2024](https://arxiv.org/abs/2407.06291)
+- [Transfer Learning with Self-Supervised Vision Transformers for Snake Identification](https://arxiv.org/abs/2407.06178)
+
+### 2023
 - [**Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification**](https://arxiv.org/abs/2306.16760)
 
-#### 👀 Here's what I'm up to
-- I'm currently working full-time and pursuing a master’s in [**Compute Science at Georgia Tech**](https://omscs.gatech.edu/) specializing in [**Machine Learning**](https://omscs.gatech.edu/specialization-machine-learning).
-- Repo dedicated to [**hyperparameter tuning**](https://github.com/murilogustineli/hyper-tuning) using scikit-learn `GridSearchCV` and `Pipeline`
-- Check it out this [**Linear Regression model**](https://github.com/murilogustineli/Machine-Learning/blob/main/1.Linear-Regression%26Gradient-Descent/LinearRegression.ipynb) I created from scratch using gradient descent and object-oriented programming
+### 2022
+- [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/abs/2204.02921)
 
-<!--
-- I'm learning ML libraries such as [**TensorFlow**](https://www.tensorflow.org/), [**PyTorch**](https://pytorch.org/), [**PySpark MLlib**](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html), [**MLflow**](https://mlflow.org/), [**Azure Custom Vision**](https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/#overview)
--->
-
-#### 🔗 Connect with me
-<a href="https://www.linkedin.com/in/murilo-gustineli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilogustineli" height="30" width="40" /></a>
-
-<!-- <img src="https://github.com/murilogustineli/cs7641-ml/blob/main/assignment-4/plots/Animation/Q-learning_frozenlake16x16.gif" width="400"> -->
 
 ## Main repos
 <!-- add comment here -->
