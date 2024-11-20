@@ -3,9 +3,9 @@ I’m a Senior AI Software Solutions Engineer at [Intel](https://www.intel.com/)
 
 ## Research
 ### 2024
-- [Multi-Label Plant Species Classification with Self-Supervised Vision Transformers](https://arxiv.org/abs/2407.06298)
-- [Transfer Learning with Pseudo Multi-Label Birdcall Classification for DS@GT BirdCLEF 2024](https://arxiv.org/abs/2407.06291)
-- [Transfer Learning with Self-Supervised Vision Transformers for Snake Identification](https://arxiv.org/abs/2407.06178)
+- [**Multi-Label Plant Species Classification with Self-Supervised Vision Transformers**](https://arxiv.org/abs/2407.06298)
+- [**Transfer Learning with Pseudo Multi-Label Birdcall Classification for DS@GT BirdCLEF 2024**](https://arxiv.org/abs/2407.06291)
+- [**Transfer Learning with Self-Supervised Vision Transformers for Snake Identification**](https://arxiv.org/abs/2407.06178)
 
 ### 2023
 - [**Transfer Learning with Semi-Supervised Dataset Annotation for Birdcall Classification**](https://arxiv.org/abs/2306.16760)
