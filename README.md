@@ -1,5 +1,6 @@
 # Hi there! I’m [Murilo](https://murilogustineli.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I’m a Senior AI Software Solutions Engineer at [Intel](https://www.intel.com/), currently pursuing a master’s in Computer Science focusing on Machine Learning at [Georgia Tech](https://www.gatech.edu/). My work involves creating synthetic datasets, fine-tuning large language models, and training multi-modal models using Intel’s Gaudi accelerators as part of the Development Enablement team. I’m particularly interested in Deep Learning, information retrieval, and biodiversity research, aiming to improve species identification and support conservation efforts.
+
+I’m a Senior AI Software Solutions Engineer at [Intel](https://www.intel.com/), currently pursuing a master’s in Computer Science at [Georgia Tech](https://www.gatech.edu/) focusing on Machine Learning. My work involves creating synthetic datasets, fine-tuning large language models, and training multi-modal models using Intel’s Gaudi accelerators as part of the Development Enablement team. I’m particularly interested in Deep Learning, information retrieval, and biodiversity research, aiming to improve species identification and support conservation efforts.
 
 ## Research
 ### 2024
