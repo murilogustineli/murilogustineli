@@ -18,10 +18,11 @@ I’m a Senior AI Software Solutions Engineer at [Intel](https://www.intel.com/)
 ## Main repos
 <!-- add comment here -->
 <p align="left">
+  <a href="https://github.com/murilogustineli/pytorch-plantclef"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=pytorch-plantclef&theme=radical&hide_border=true&show_icons=false" alt="pytorch-plantclef"></a>
   <a href="https://github.com/murilogustineli/computer-vision-demo"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=computer-vision-demo&theme=radical&hide_border=true&show_icons=false" alt="computer-vision-demo"></a>
   <a href="https://github.com/murilogustineli/hyper-tuning"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=hyper-tuning&theme=radical&hide_border=true&show_icons=false" alt="hyperparameter-tuning"></a>
-  <a href="https://github.com/murilogustineli/machine-learning-by-stanford"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=machine-learning-by-stanford&theme=radical&hide_border=true&show_icons=false" alt="machine-learning-by-stanford"></a>
   <a href="https://github.com/murilogustineli/leetcode"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=leetcode&theme=radical&hide_border=true&show_icons=false" alt="leetcode"></a>
+<!--   <a href="https://github.com/murilogustineli/machine-learning-by-stanford"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=machine-learning-by-stanford&theme=radical&hide_border=true&show_icons=false" alt="machine-learning-by-stanford"></a> -->
   <!--   <a href="https://github.com/murilogustineli/dsa-specialization-ucsd"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=dsa-specialization-ucsd&theme=radical&hide_border=true&show_icons=false" alt="dsa-specialization-ucsd"></a> -->
 
 <!--
