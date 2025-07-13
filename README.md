@@ -3,6 +3,10 @@
 I’m a Senior AI Software Solutions Engineer at [Intel](https://www.intel.com/), currently pursuing a master’s in Computer Science at [Georgia Tech](https://www.gatech.edu/) focusing on Machine Learning. My work involves creating synthetic datasets, fine-tuning large language models, and training multi-modal models using Intel’s Gaudi accelerators as part of the Development Enablement team. I’m particularly interested in Deep Learning, information retrieval, and biodiversity research, aiming to improve species identification and support conservation efforts.
 
 ## Research
+### 2025
+- [**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**](https://arxiv.org/abs/2507.06093)
+
+
 ### 2024
 - [**Multi-Label Plant Species Classification with Self-Supervised Vision Transformers**](https://arxiv.org/abs/2407.06298)
 - [**Transfer Learning with Pseudo Multi-Label Birdcall Classification for DS@GT BirdCLEF 2024**](https://arxiv.org/abs/2407.06291)
