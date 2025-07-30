@@ -5,6 +5,8 @@ I’m a Senior AI Software Solutions Engineer at [Intel](https://www.intel.com/)
 ## Research
 ### 2025
 - [**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**](https://arxiv.org/abs/2507.06093)
+- [**Distilling Spectrograms into Tokens: Fast and Lightweight Bioacoustic Classification for BirdCLEF+ 2025**](https://arxiv.org/abs/2507.08236)
+- [**Transfer Learning and Mixup for Fine-Grained Few-Shot Fungi Classification**](https://www.arxiv.org/abs/2507.08248)
 
 
 ### 2024
