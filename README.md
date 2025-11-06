@@ -1,5 +1,4 @@
-# Hi there! I’m [Murilo](https://murilogustineli.com) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
+# Hi there! I’m [Murilo](https://murilogustineli.com)
 I’m a machine learning engineer and researcher, formerly a Senior AI Software Engineer at [Intel](https://www.intel.com/), now exploring new opportunities where I can drive applied ML forward. 
 As I complete my master’s in Computer Science (Machine Learning) at [Georgia Tech](https://www.gatech.edu/), I co-lead [DS@GT-ARC](https://dsgt-arc.org/), an independent research group tackling problems in information retrieval, computer vision, multilingual, and multimodal modeling.
 
