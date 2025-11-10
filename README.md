@@ -3,7 +3,7 @@ I’m a machine learning engineer and researcher, formerly a Senior AI Software 
 As I complete my master’s in Computer Science (Machine Learning) at [Georgia Tech](https://www.gatech.edu/), I co-lead [DS@GT-ARC](https://dsgt-arc.org/), an independent research group tackling problems in information retrieval, computer vision, multilingual, and multimodal modeling.
 
 My recent work involves creating large-scale synthetic datasets, fine-tuning language models, and training multi-modal models on Intel Gaudi accelerators. 
-I’m particularly interested in deep learning to advance biodiverstiy research, improving species identification and supporting conservation efforts. 
+I’m particularly interested in designing deep learning models that learn rich, transferable representations efficiently across domains such as vision, language, and 3D perception.
 
 ## Research
 ### 2025
