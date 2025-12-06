@@ -2,6 +2,7 @@ I’m a Machine Learning Engineer and researcher, currently pursuing a Master’
 
 I co-lead [DS@GT-ARC](https://dsgt-arc.org/) group and my research spans Vision Transformers, language models, and efficient AI systems for large-scale scientific applications.
 
+<!--
 ## Research
 ### 2025
 - [**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**](https://arxiv.org/abs/2507.06093)
