@@ -21,8 +21,8 @@ I co-lead [DS@GT-ARC](https://dsgt-arc.org/) group and my research spans Vision 
 - [**A survey on recently proposed activation functions for Deep Learning**](https://arxiv.org/abs/2204.02921)
 
 
+<!--
 ## Main repos
-<!-- add comment here -->
 <p align="left">
   <a href="https://github.com/murilogustineli/pytorch-plantclef"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=pytorch-plantclef&theme=radical&hide_border=true&show_icons=false" alt="pytorch-plantclef"></a>
   <a href="https://github.com/murilogustineli/computer-vision-demo"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=murilogustineli&repo=computer-vision-demo&theme=radical&hide_border=true&show_icons=false" alt="computer-vision-demo"></a>
