@@ -1,9 +1,6 @@
-# Hi there! I’m [Murilo Gustineli](https://murilogustineli.com)
-I’m a machine learning engineer and researcher, formerly a Senior AI Software Engineer at [Intel](https://www.intel.com/), now exploring new opportunities where I can drive applied ML forward. 
-As I complete my master’s in Computer Science (Machine Learning) at [Georgia Tech](https://www.gatech.edu/), I co-lead [DS@GT-ARC](https://dsgt-arc.org/), an independent research group tackling problems in information retrieval, computer vision, multilingual, and multimodal modeling.
+I’m a Machine Learning Engineer, currently pursuing a Master’s in Computer Science at [Georgia Tech](https://www.gatech.edu/) focusing on Machine Learning. My research interests lie at the intersection of Machine Learning and Representation Learning. I am interested in designing models that learn rich, transferable representations efficiently across domains such as **vision**, **language**, and **3D perception**.
 
-My recent work involves creating large-scale synthetic datasets, fine-tuning language models, and training multi-modal models on Intel Gaudi accelerators. 
-I’m particularly interested in designing deep learning models that learn rich, transferable representations efficiently across domains such as vision, language, and 3D perception.
+As I complete my master’s in Computer Science (Machine Learning) at [Georgia Tech](https://www.gatech.edu/), I co-lead [DS@GT-ARC](https://dsgt-arc.org/) group and my research spans Vision Transformers, language models, and efficient AI systems for large-scale scientific applications.
 
 ## Research
 ### 2025
