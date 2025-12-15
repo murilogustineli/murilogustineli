@@ -1,7 +1,6 @@
 I’m a Machine Learning Engineer and researcher, currently pursuing a Master’s in Computer Science at [Georgia Tech](https://www.gatech.edu/) focusing on Machine Learning. My research interests lie at the intersection of **Machine Learning** and **Representation Learning**. I am interested in designing models that learn rich, transferable representations efficiently across domains such as **vision**, **language**, and **3D perception**.
 
-I co-lead [DS@GT-ARC](https://dsgt-arc.org/) group and my research spans Vision Transformers, language models, and efficient AI systems for large-scale scientific applications.
-
+I co-lead [**DS@GT Applied Research & Competitions (ARC)**](https://dsgt-arc.org/) group and my research spans Vision Transformers, language models, and efficient AI systems for large-scale scientific applications.
 <!--
 ## Research
 ### 2025
